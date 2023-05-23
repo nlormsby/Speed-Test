@@ -21,4 +21,4 @@ Keys pressed: `<up><up><up><enter><up><up><up><enter>` The `javac -cp .:lib/hamc
   
 ## Step 9
 ![Lab_4_Step_9](Lab_4_Step_9.png)
-Keys Pressed: `git add ListExamples.java<enter>git commit -m '1 to 2'<enter>git remote remove origin<enter>git remote add origin git@github.com:nlormsby/lab7<enter>git push origin main<enter>`
+Keys Pressed: `git add ListExamples.java<enter>git commit -m '1 to 2' <enter> git remote remove origin <enter> git remote add origin git@github.com:nlormsby/lab7 <enter> git push origin main <enter>`
